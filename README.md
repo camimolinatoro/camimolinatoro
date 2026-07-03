@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Camila 👋
 
-<!--
-**camimolinatoro/camimolinatoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA & Software Developer | Final-year Systems Engineering student at UPB (Cochabamba, Bolivia)
 
-Here are some ideas to get you started:
+I combine hands-on QA experience (manual testing, automation, API testing) with 
+full-stack development skills. Currently building projects and open to remote/freelance 
+opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python · Java · C# · JavaScript/TypeScript · Go · PHP · Lua  
+**Frameworks:** React · Node.js/Express  
+**Databases:** MySQL · PostgreSQL · SQL Server  
+**Testing:** Selenium · Postman · API Testing  
+**Tools:** Git · Docker · Jira
+
+## 🚀 What I'm working on
+Building a portfolio of QA automation, backend, and data/cloud projects — check my 
+pinned repos below.
+
+## 📫 Reach me
+www.linkedin.com/in/camilamolinatoro · camimolinatoro@gmail.com
