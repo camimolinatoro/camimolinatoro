@@ -8,7 +8,7 @@ opportunities.
 
 ## Tech Stack
 **Languages:** Python · Java · C# · JavaScript/TypeScript · Go · PHP · Lua  
-**Frameworks:** React · Angular · Vue · Node.js/Express 
+**Frameworks:** React · Angular · Vue · Node.js/Express
 **Databases:** MySQL · PostgreSQL · SQL Server  
 **Testing:** Selenium · Postman · API Testing  
 **Tools:** Git · Docker · Jira
